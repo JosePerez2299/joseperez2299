@@ -1,14 +1,11 @@
-# 💫 Acerca de mi
+# 💫 Acerca de mí
 <div align="center">
 <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" style="width: 200px" />
 </div>  
   
 
-
-## **<div align="center">👋 ¡Hola! Soy Jose Alberto 🚀 Desarrollador de Software🖥️🖥️</div>**  
+## **<div align="center">👋 ¡Hola! Soy José Alberto 🚀 Desarrollador de Software 🖥️🖥️</div>**  
   
-
-
 
 - 🎓 **Estudiante de último año** de Ingeniería en Computación en la Universidad Simón Bolívar.  
 - 🌱 **Buscando oportunidades** para realizar mis prácticas académicas y seguir creciendo profesionalmente.  
