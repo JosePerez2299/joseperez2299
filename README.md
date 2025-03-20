@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseperez2299&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=neon&hide_border=true" alt="my Github Stats"/> 
- <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=joseperez2299&theme=neon&hide_border=true"/> </br>
+ <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=joseperez2299&theme=neon&hide_border=true"/> </br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseperez2299&langs_count=20&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=neon" />
 </p>
 
