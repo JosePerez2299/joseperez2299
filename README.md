@@ -1,29 +1,26 @@
+# 💫 Acerca de mi
 <div align="center">
 <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" style="width: 200px" />
 </div>  
   
 
-### **<div align="center">Soy Jose Alberto 🚀 Desarrollador de Software🖥️🖥️</div>**  
+
+### **<div align="center">👋 ¡Hola! Soy Jose Alberto 🚀 Desarrollador de Software🖥️🖥️</div>**  
   
 
-- 📚 Estudiante de último año en Ingeniería en Computación, Universidad Simón Bolívar.👨‍🎓   
-  
 
-- 🌱Estoy en búsqueda de oportunidades para realizar mis prácticas académicas, que me ayuden a crecer y seguir mejorando,   
-  
 
-- 🖥️Bases y principios sólidos para el desarrollo eficiente de software, escalable, siguiendo buenas prácticas. Conocimiento avanzado de algoritmos y resolución de problemas.   
-  
-
-- 🧑‍💻He desarrollado aplicaciones web, full stack, pero me gusta más el backend y las bases de datos😏  
-  
+- 🎓 **Estudiante de último año** de Ingeniería en Computación en la Universidad Simón Bolívar.  
+- 🌱 **Buscando oportunidades** para realizar mis prácticas académicas y seguir creciendo profesionalmente.  
+- 🖥️ **Desarrollador con bases sólidas** en software escalable, buenas prácticas y optimización de código.  
+- 🏆 **Conociemientos avanzados en algoritmos y resolución de problemas.**  
+- 🧑‍💻 **Experiencia en desarrollo web full stack**, aunque mi enfoque y pasión están en el backend y bases de datos.    
+- 🤖 **Aprovecho la IA** (ChatGPT, Copilot) para potenciar mi flujo de trabajo.  
+- 🤝 **Trabajo en equipo y comunicación efectiva**, con código bien documentado.  
+- 🎮 **Dato curioso:** ¡Me encantan los videojuegos!  
 
 <br/>  
-
 </td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
